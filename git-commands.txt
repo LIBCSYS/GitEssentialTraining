@@ -24,8 +24,10 @@ git push  # push to the local repository
  git status
 
 
+|----------------------------------------|
+Git Pull:
 
-
+## Distributed Version Control.
 
 
 
