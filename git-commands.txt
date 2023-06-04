@@ -1,18 +1,35 @@
-
-
+|----------------------------------------|
 commit:
 
+|----------------------------------------|
 pull:
 
-
+|----------------------------------------|
 branching
 
-
+|----------------------------------------|
 git add .  # add all changes
 
+|----------------------------------------|
 git commit 
 
+
 git push  # push to the local repository
+|----------------------------------------|
+
+ git add .
+ git commit
+ git remote add GitEssentialTraining https://github.com/LIBCSYS/GitEssentialTraining.git
+ git push --set-upstream GitEssentialTraining master
+ git status
+
+
+
+
+
+
+
+
 
 
 
