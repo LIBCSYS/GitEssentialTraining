@@ -1,7 +1,4 @@
 This is an example file.
-
-
-
 :
 :
 :
@@ -9,3 +6,9 @@ This is an example file.
 Git Example 1 -
 
 Git Example 2 -
+
+|----------------------------------------|
+
+This is now Git Example 3 - Where are all the changes?
+
+|----------------------------------------|
