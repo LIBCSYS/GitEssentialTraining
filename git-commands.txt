@@ -1,0 +1,32 @@
+
+
+commit:
+
+pull:
+
+
+branching
+
+
+git add .  # add all changes
+
+git commit 
+
+git push  # push to the local repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
