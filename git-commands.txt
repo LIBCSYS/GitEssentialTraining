@@ -29,9 +29,21 @@ Git Pull:
 
 ## Distributed Version Control.
 
+git request-pull master git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/char-misc.git/char-misc-4.15-rc1.git     
 
 
 
+configuration
+
+gitconfig 
+
+.git/config - local config gile.
+
+
+git config --list 
+
+git config --global user.name "Libc"
+git config --global user.email "libcxyz@gmail.com"
 
 
 
